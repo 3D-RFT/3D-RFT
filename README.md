@@ -1,5 +1,5 @@
 <h2 align="center">
-  <span><img src="assets/logo.png" width="4%" style="transform: translate(0,9px)"></span><b>3D-RFT: Reinforcement Fine-Tuning for Video-based 3D Scene Understanding</b>
+  <span><img src="assets/logo.png" width="4%" style="transform: translate(0,9px)"></span><b>3D-RFT: Reinforcement Fine-Tuning for Video-based <br/> 3D Scene Understanding</b>
 </h2>
 
 <h3 align="center">
